@@ -1,0 +1,5 @@
+{
+    "maven.pomfile.autoUpdateEffectivePOM": true,
+    "maven.terminal.useJavaHome": true,
+    "maven.executable.preferMavenWrapper": false
+}
